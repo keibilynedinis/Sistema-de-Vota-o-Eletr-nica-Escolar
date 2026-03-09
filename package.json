@@ -1,0 +1,6 @@
+{
+  "name": "voting-system",
+  "description": "Sistema de Votação Eletrónica Escolar",
+  "main": "app.js",
+  "type": "commonjs"
+}
